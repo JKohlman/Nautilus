@@ -1,0 +1,1989 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/SMLHelper",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "u27V0dvU1KjX+RqWO1zv3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.CustomModelData.Targets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.CustomModelData.Targets.html",
+          "hash": "6q3+YF7y8YXIJArL2lilnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.CustomModelData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.CustomModelData.html",
+          "hash": "W5J1A5hTEnLdQeweSqh9Cw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.CustomPrefab.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.CustomPrefab.html",
+          "hash": "zZgdB8gXeKtlSA+zBdmDhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.Gadgets.CraftingGadget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.Gadgets.CraftingGadget.html",
+          "hash": "pGdMQp1iBqw3ocjDW9Xhew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.Gadgets.EquipmentGadget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.Gadgets.EquipmentGadget.html",
+          "hash": "OKhaDbpiUahTajkcCMQP0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.Gadgets.FabricatorGadget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.Gadgets.FabricatorGadget.html",
+          "hash": "z3dRZ78Rc47D9fvpPYzEHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.Gadgets.Gadget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.Gadgets.Gadget.html",
+          "hash": "XvlSK5CAv+Y6j01EzbCmkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.Gadgets.GadgetExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.Gadgets.GadgetExtensions.html",
+          "hash": "yN/mqculzLhzvjM6jjPYJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.Gadgets.ScanningGadget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.Gadgets.ScanningGadget.html",
+          "hash": "YbnCdF8UpeXQ67GJKApnqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.Gadgets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.Gadgets.html",
+          "hash": "cL8AL8FUCIzGAFAxU1g4wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.ICustomPrefab.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.ICustomPrefab.html",
+          "hash": "0/S+dW8wcQF8NX1masW4dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.ModPrefabCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.ModPrefabCache.html",
+          "hash": "D9rjrOxZWF0HtMSPRX5fpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.PrefabFactoryAsync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.PrefabFactoryAsync.html",
+          "hash": "C1/5W162ZCWiOHxIVYvymQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.PrefabPostProcessorAsync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.PrefabPostProcessorAsync.html",
+          "hash": "JsH0sa0+I90xvE+p2m7gOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.PrefabTemplates.CloneTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.PrefabTemplates.CloneTemplate.html",
+          "hash": "GlpXSrGXzMSSQ8u8/JrbSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.PrefabTemplates.EnergySourceTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.PrefabTemplates.EnergySourceTemplate.html",
+          "hash": "/BbgzJJkdw3MTOBCSBvM6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.PrefabTemplates.FabricatorTemplate.Model.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.PrefabTemplates.FabricatorTemplate.Model.html",
+          "hash": "Al2PDa8BRIlAX9ZTLBcsyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.PrefabTemplates.FabricatorTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.PrefabTemplates.FabricatorTemplate.html",
+          "hash": "iRMrLar1oxonuZUe/B57QA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.PrefabTemplates.PrefabTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.PrefabTemplates.PrefabTemplate.html",
+          "hash": "QwZPxFYxJ0+JobXCSu7EBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.PrefabTemplates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.PrefabTemplates.html",
+          "hash": "21/XL4KeupYaCwru4M8fFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Assets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Assets.html",
+          "hash": "vy3OhO22CjOS9eeH12OB3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Commands.ConsoleCommandAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Commands.ConsoleCommandAttribute.html",
+          "hash": "3zDctstywThnh8coW4NI7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Commands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Commands.html",
+          "hash": "Q6OlQDU77hRh0TiPdMJHtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Crafting.ModCraftTreeCraft.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Crafting.ModCraftTreeCraft.html",
+          "hash": "NKA45Sj8tX3Em0eZsFZV2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Crafting.ModCraftTreeLinkingNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Crafting.ModCraftTreeLinkingNode.html",
+          "hash": "D9/HvHqNC+ccWkk6NIDU/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Crafting.ModCraftTreeNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Crafting.ModCraftTreeNode.html",
+          "hash": "rZ/iqR1Lq7PBBRm5R2Ru1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Crafting.ModCraftTreeRoot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Crafting.ModCraftTreeRoot.html",
+          "hash": "BLR6Yr3aUBkeeTDCczZ82A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Crafting.ModCraftTreeTab.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Crafting.ModCraftTreeTab.html",
+          "hash": "LewJ6JcsFrVU57SoS/lu8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Crafting.RecipeData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Crafting.RecipeData.html",
+          "hash": "2JHUMZh52dI2/JAbkKBeSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Crafting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Crafting.html",
+          "hash": "vyhH0e5Hj8J4NIhuZkMeLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.FMod.FModMultiSounds.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.FMod.FModMultiSounds.html",
+          "hash": "JdSDrrlVNUCfU7JB0LPFsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.FMod.Interfaces.IFModSound.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.FMod.Interfaces.IFModSound.html",
+          "hash": "MHuyaJHRPJGYhcvmwbyWgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.FMod.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.FMod.Interfaces.html",
+          "hash": "imJs1l9g6Rww4Dzi8WId0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.FMod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.FMod.html",
+          "hash": "kEnvRELoembWlsDllcUTDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.ConsoleCommandsHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.ConsoleCommandsHandler.html",
+          "hash": "CFxmx6ECvWcxiX/jxyirRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.CoordinatedSpawnsHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.CoordinatedSpawnsHandler.html",
+          "hash": "LI6Mb6UGxSNDQRTeGxmkXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.CraftDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.CraftDataHandler.html",
+          "hash": "RAIrifflxz4lI5FwiKbtYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.CraftTreeHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.CraftTreeHandler.html",
+          "hash": "PRcWHAmnTFZINrK+Uu3+sA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.CustomSoundHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.CustomSoundHandler.html",
+          "hash": "/Ma8vBHa+GBFRgtPptKttA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.EatableHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.EatableHandler.html",
+          "hash": "m/v2vswGq/VN1MV8yHBnJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.EnumBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.EnumBuilder-1.html",
+          "hash": "sux9YrYFZjYGmbhrz21+zA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.EnumExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.EnumExtensions.html",
+          "hash": "A4hyrOZZK0RBXsDJuQh/Uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.EnumHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.EnumHandler.html",
+          "hash": "eU/mEx1sew3DcykbG0M/LQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.ItemActionHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.ItemActionHandler.html",
+          "hash": "MdnnX4YpFGVcxfgdHA8hNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.KnownTechHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.KnownTechHandler.html",
+          "hash": "vjfLKBW72JLdePRswsIlwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.LanguageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.LanguageHandler.html",
+          "hash": "o4BfBt9o7VhfO+qtsvgvgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.LootDistributionHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.LootDistributionHandler.html",
+          "hash": "ApCM87UzbtDbxWtG+i34jQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.OptionsPanelHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.OptionsPanelHandler.html",
+          "hash": "MRY6xt+HOwj10XPq0QxtWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.PDAHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.PDAHandler.html",
+          "hash": "6HGChU0qgnKhuntCLPHF2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.PrefabCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.PrefabCollection.html",
+          "hash": "UrSQoqSiTfEM3FQNWSH2rA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.PrefabCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.PrefabCollectionExtensions.html",
+          "hash": "x4rxbqX3jvOQ6Xx8h4EmBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.PrefabHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.PrefabHandler.html",
+          "hash": "yI43IA96J6b3IgDZBlQviw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.SaveDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.SaveDataHandler.html",
+          "hash": "xSuwG0A/Ba3TNilkHbCEuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.SpawnInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.SpawnInfo.html",
+          "hash": "nZ1FrMeaxNr9/cR2bcY70g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.SpriteHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.SpriteHandler.html",
+          "hash": "SFLktuN8I2J1sjedVnTmDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.SurvivalHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.SurvivalHandler.html",
+          "hash": "YKr2ttrl75n1p7H9P74baw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.WorldEntityDatabaseHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.WorldEntityDatabaseHandler.html",
+          "hash": "ECR5vPhdj3gk2f+HgJo3Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Handlers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Handlers.html",
+          "hash": "qRvF/EH5sZQIfoHFj29ytg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Attributes.FileNameAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Attributes.FileNameAttribute.html",
+          "hash": "y8BmDsMfFoX4FMBauIH+VQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Attributes.html",
+          "hash": "4U5Jyqrin3RHBPLLOmCWTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.ConfigFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.ConfigFile.html",
+          "hash": "G4EPpJTTcN9rChVcxof5WQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.ConfigFileAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.ConfigFileAttribute.html",
+          "hash": "s88C3EQKKq8l/kE6UGECsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.ConfigFileEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.ConfigFileEventArgs.html",
+          "hash": "mIbUVmo/MGSnL64irjMVLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.ColorConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.ColorConverter.html",
+          "hash": "mFFiNKNbG7fgc5BCSfGHDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.CustomEnumConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.CustomEnumConverter.html",
+          "hash": "7v3iZIM56xctjrAdrrc9lA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.FloatConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.FloatConverter.html",
+          "hash": "6/g6JvE6nCSlwy4gg/cO4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.KeyCodeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.KeyCodeConverter.html",
+          "hash": "MdEj09jsSNb3xWRBaId8iA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.QuaternionConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.QuaternionConverter.html",
+          "hash": "owZlLQszWGEVxaIieoQplg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.Vector2Converter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.Vector2Converter.html",
+          "hash": "y5Jn6K+L9qx8y0qiio5/Fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.Vector2IntConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.Vector2IntConverter.html",
+          "hash": "grzUNZytzQz9MaNf3mfnNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.Vector3Converter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.Vector3Converter.html",
+          "hash": "0EnQ6tIFbARLWokj5tgh7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.Vector3IntConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.Vector3IntConverter.html",
+          "hash": "CJmHmUuUeQrP6a3yWB3PLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.Vector4Converter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.Vector4Converter.html",
+          "hash": "/uNP9O8KUh5FuAnYBuD3IQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Converters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Converters.html",
+          "hash": "Y3UDZ5u1AmTIqRFL4U4x+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.ExtensionMethods.JsonExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.ExtensionMethods.JsonExtensions.html",
+          "hash": "Dqm4AcFfti5reewwfTbi+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.ExtensionMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.ExtensionMethods.html",
+          "hash": "itqQt5FVGuLEJENRZH6pxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Interfaces.IJsonFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Interfaces.IJsonFile.html",
+          "hash": "45CkfarDc/VG+e1PeBYiCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.Interfaces.html",
+          "hash": "vwhIzwwZXtBoyh8eMviv4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.JsonFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.JsonFile.html",
+          "hash": "uhcneJZ6Y0LG2m0lJ9jdMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.JsonFileEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.JsonFileEventArgs.html",
+          "hash": "iXL/t8TLTdEwq+uVX2vJhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.SaveDataCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.SaveDataCache.html",
+          "hash": "hyoo3n+98TNHWZdz/NIbqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Json.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Json.html",
+          "hash": "CsDItM59GPMFGx1OYNVBcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.ButtonAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.ButtonAttribute.html",
+          "hash": "YNH5M5AG1+KarEA0xBBxdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.ChoiceAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.ChoiceAttribute.html",
+          "hash": "3xFqiq88P3jDTMJpdcJJfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.ColorPickerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.ColorPickerAttribute.html",
+          "hash": "/saWjnLRsZ2US0IQCFynyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.IgnoreMemberAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.IgnoreMemberAttribute.html",
+          "hash": "yYTGJaJaH2ZtaaWcmGsUFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.KeybindAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.KeybindAttribute.html",
+          "hash": "3WIznH9UkaSgTCcEJHB/4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.MenuAttribute.LoadEvents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.MenuAttribute.LoadEvents.html",
+          "hash": "pw1tWBjAfNvB6EqMjMsGdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.MenuAttribute.Members.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.MenuAttribute.Members.html",
+          "hash": "5rTPptzBn3iguKCR9HPlLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.MenuAttribute.SaveEvents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.MenuAttribute.SaveEvents.html",
+          "hash": "YhigizQ3RGm8vYkhRrGS0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.MenuAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.MenuAttribute.html",
+          "hash": "2ncu+3r4cURGuGVN0U+IWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.ModOptionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.ModOptionAttribute.html",
+          "hash": "ACNqk/eXal2rrQJqoL3H1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.ModOptionEventAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.ModOptionEventAttribute.html",
+          "hash": "dxnsy/dvOojLVNS6O2KnZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.OnChangeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.OnChangeAttribute.html",
+          "hash": "1HNWnu1caW8cAe8dJK1jeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.OnGameObjectCreatedAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.OnGameObjectCreatedAttribute.html",
+          "hash": "9hDX5GuvHaM0OiSF8YrURw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.SliderAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.SliderAttribute.html",
+          "hash": "uDScy1Vk7j3UQyHn68eW+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.ToggleAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.ToggleAttribute.html",
+          "hash": "6vSP9Zb/3+Q30QBVLG4Dlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.Attributes.html",
+          "hash": "pwxGouaNEisQ8XVQNc3UfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ButtonClickedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ButtonClickedEventArgs.html",
+          "hash": "OhdJ/0/ZqG1IkLgeTVfgPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ChoiceChangedEventArgs-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ChoiceChangedEventArgs-1.html",
+          "hash": "C3Hf8aIt3PXiWrPzRiTmEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ColorChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ColorChangedEventArgs.html",
+          "hash": "7Pr8DKePVbmRK+AXXXh8Og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ConfigEntryExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ConfigEntryExtensions.html",
+          "hash": "RUnfByPQxOKl4ymL07qvRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ConfigOptionEventArgs-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ConfigOptionEventArgs-1.html",
+          "hash": "cdfu2GC5tR0fbwx+m57eng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.GameObjectCreatedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.GameObjectCreatedEventArgs.html",
+          "hash": "6eKGiUsAMd/sFVIrlrHcew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.KeybindChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.KeybindChangedEventArgs.html",
+          "hash": "Fc/MErDYKf9a9gzUvqRcYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModButtonOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModButtonOption.html",
+          "hash": "jAx/8QIXAjFrK/E9U9WXdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModChoiceOption-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModChoiceOption-1.html",
+          "hash": "pYUP/an+zWtXkGtiOoIuDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModColorOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModColorOption.html",
+          "hash": "8hWTGV7McbULlOW/cxGsxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModKeybindOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModKeybindOption.html",
+          "hash": "SW9huz2OnUehiXlAbfRwlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModOption-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModOption-2.html",
+          "hash": "wW5ZoTruIkwEyaPcw+3u+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModOptions.html",
+          "hash": "gUgZ84CoeQ9lF5A4jW7wkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModSliderOption.SliderValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModSliderOption.SliderValue.html",
+          "hash": "qylox66zizTTzl+6vtufrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModSliderOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModSliderOption.html",
+          "hash": "q9JFD8X/kb+OWOhuaA3Ntg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ModToggleOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ModToggleOption.html",
+          "hash": "81WMgaSy3tsTwn8O0GJgSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.OptionEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.OptionEventArgs.html",
+          "hash": "3/tbY/cjxdAVYfBJox+dQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.OptionItem.ModOptionAdjust.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.OptionItem.ModOptionAdjust.html",
+          "hash": "yc2oMNmrYOvbCX73w2k+mA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.OptionItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.OptionItem.html",
+          "hash": "A2xLzRhvIpHW/CO/dGoz4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.SliderChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.SliderChangedEventArgs.html",
+          "hash": "BV0wvvwaViCbvvR9RQ+rCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.ToggleChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.ToggleChangedEventArgs.html",
+          "hash": "z1kWiWkXigrC2xw7y7L7MA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Options.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Options.html",
+          "hash": "HitguxlZaf/kzsFLi9NFrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Patchers.SelfCheckingDictionary-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Patchers.SelfCheckingDictionary-2.html",
+          "hash": "uLy8sma3yDcrmeZFUIJlnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Patchers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Patchers.html",
+          "hash": "F8+yR+09GE16Fvh7qC+//Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.AudioUtils.BusPaths.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.AudioUtils.BusPaths.html",
+          "hash": "I1TSgLFglrN70TqZQ14CHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.AudioUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.AudioUtils.html",
+          "hash": "yPZjSrYPqbdfty0JTatufA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.BasicText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.BasicText.html",
+          "hash": "uE4DGXMk0Qqgcix49riB1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.ConstructableFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.ConstructableFlags.html",
+          "hash": "6x+MkOEby1E6rVVSCS3ZIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.IOUtilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.IOUtilities.html",
+          "hash": "kvZ75CnWdydjJzlVm5MKkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.ImageUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.ImageUtils.html",
+          "hash": "WvMb6dvyyvEHvD6JKCEgvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.ItemStorageHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.ItemStorageHelper.html",
+          "hash": "LqXg/Nv+7Rf2dQauLNJy6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.JsonUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.JsonUtils.html",
+          "hash": "c7AggKsYCNebCjPiF5wbWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.KeyCodeUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.KeyCodeUtils.html",
+          "hash": "mfNvoKq+d+++CFSc+O+pYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.MaterialModifiers.ColorModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.MaterialModifiers.ColorModifier.html",
+          "hash": "ij4M2W06rtpxQDkuKq+9eg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.MaterialModifiers.MaterialModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.MaterialModifiers.MaterialModifier.html",
+          "hash": "1F42Jx5/tuWCLJslK2BGFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.MaterialModifiers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.MaterialModifiers.html",
+          "hash": "wRB27vzCU6CfCfCr8Nz+AQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.MaterialUtils.MaterialType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.MaterialUtils.MaterialType.html",
+          "hash": "frQhuaOfwomIKmnadRLMgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.MaterialUtils.Shaders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.MaterialUtils.Shaders.html",
+          "hash": "J8zuN+tY8edD0cutkMdBdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.MaterialUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.MaterialUtils.html",
+          "hash": "DggfMEq7rXtpw03TQGoaUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.PlayerPrefsExtra.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.PlayerPrefsExtra.html",
+          "hash": "gys7E6Wv2VyLeJxJHwwesw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.PrefabUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.PrefabUtils.html",
+          "hash": "P6w7dOdEAHe6RDHRdqgMiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.ReflectionHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.ReflectionHelper.html",
+          "hash": "yc6C+NP+7krzCmGQFH4npg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.SaveUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.SaveUtils.html",
+          "hash": "NioTrAxJ7q/UJEBJayTj4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.StorageHelperExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.StorageHelperExtensions.html",
+          "hash": "tED4SJ2OQOVVvmT4uTSg+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Documentation/api/SMLHelper.Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SMLHelper.Utility.html",
+          "hash": "7XFMun6GOxr2MV2BgG04nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Documentation/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "5/+wIdWAd57LzduTv/KoEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/guides/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/overview.html",
+          "hash": "7jQaeA7H+tusE4wQzFWdQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/guides/sml2-to-sml3.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/sml2-to-sml3.html",
+          "hash": "Ve6Ipn0BQPtUtNfqWq12GQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Documentation/guides/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "guides/toc.html",
+          "hash": "dPNdoQXsHKc+tBbtybj3jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation/images/banner.webp",
+      "output": {
+        "resource": {
+          "relative_path": "Documentation/images/banner.webp"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation/images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "Documentation/images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation/images/smoll.ico",
+      "output": {
+        "resource": {
+          "relative_path": "Documentation/images/smoll.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation/images/tutorials/command-results.png",
+      "output": {
+        "resource": {
+          "relative_path": "Documentation/images/tutorials/command-results.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "QpikHrMGE/w2lIwrBExVow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Documentation/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "iyfoTmE5hChLzzpZUgQP/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/tutorials/background-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/background-type.html",
+          "hash": "GiqyDz00fByuAQ1wObvhgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/tutorials/console-commands.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/console-commands.html",
+          "hash": "j9tLgSTOA1ZAA/vKWanX5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "MissingNewLineBelowSectionHeader"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/tutorials/equipment-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/equipment-type.html",
+          "hash": "yJn1T0zpYbTFXcBwu+05CQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/tutorials/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/overview.html",
+          "hash": "7uCh8LJwFSGQ43eEl3nELw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/tutorials/spawns.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/spawns.html",
+          "hash": "AT7qPstSODDcxXe276aVdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Documentation/tutorials/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/toc.html",
+          "hash": "BBjpITWR5aqzbYCYNo2zsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 9
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 143,
+          "skipped_file_count": 65
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
