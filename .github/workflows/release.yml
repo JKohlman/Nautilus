@@ -1,0 +1,38 @@
+name: Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Install .NET Framework 4.7.2
+        run: choco install dotnetfx --version=4.7.2.20180712
+      
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        
+      - name: Install packages
+        run: dotnet restore
+      
+      - name: Build Subnautica
+        run: dotnet build --configuration SN.STABLE
+        
+      - name: Build BelowZero
+        run: dotnet build --configuration BZ.STABLE
+        
+      - name: Upload BZ
+        uses: actions/upload-artifact@v3
+        with:
+          name: Nautilus_BZ.STABLE.zip
+          path: 'Nautilus/bin/BZ.STABLE'
+          if-no-files-found: error
+          
+      - name: Upload SN
+        uses: actions/upload-artifact@v3
+        with:
+          name: Nautilus_SN.STABLE.zip
+          path: 'Nautilus/bin/SN.STABLE'
+          if-no-files-found: error
