@@ -366,11 +366,18 @@ internal class ConfigFileMetadata<T> where T : ConfigFile, new()
     /// <param name="e">The <see cref="ChoiceChangedEventArgs{T}"/> for the choice changed event.</param>
     public void HandleChoiceChanged<Any>(object sender, ChoiceChangedEventArgs<Any> e)
     {
+        InternalLogger.Debug("Got to HandleChoiceChanged");
         if (TryGetMetadata(e.Id, out ModOptionAttributeMetadata<T> modOptionMetadata))
         {
             // Set the value in the Config
             MemberInfoMetadata<T> memberInfoMetadata = modOptionMetadata.MemberInfoMetadata;
             ChoiceAttribute choiceAttribute = modOptionMetadata.ModOptionAttribute as ChoiceAttribute;
+
+            InternalLogger.Debug($"Got memberInfoMetadata:");
+            InternalLogger.Debug(memberInfoMetadata.MemberType.ToString());
+            InternalLogger.Debug(memberInfoMetadata.MethodParameterTypes.ToString());
+            InternalLogger.Debug(memberInfoMetadata.MethodValid.ToString());
+            InternalLogger.Debug(memberInfoMetadata.Name);
 
             if (memberInfoMetadata.ValueType.IsEnum && (choiceAttribute.Options == null || !choiceAttribute.Options.Any()))
             {
@@ -650,6 +657,7 @@ internal class ConfigFileMetadata<T> where T : ConfigFile, new()
 
         foreach (MemberInfoMetadata<T> onChangeMetadata in modOptionMetadata.OnChangeMetadata)
         {
+            InternalLogger.Debug("Got to InvokeOnChangeEvents!");
             InvokeEvent(onChangeMetadata, sender, e);
         }
     }

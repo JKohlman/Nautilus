@@ -78,6 +78,11 @@ internal class OptionsMenuBuilder<T> : ModOptions where T : ConfigFile, new()
             var typedEvent = Convert.ChangeType(e, genericType);
             var methodInfo = ConfigFileMetadata.GetType().GetMethod(nameof(ConfigFileMetadata.HandleChoiceChanged));
             var typedMethod = methodInfo.MakeGenericMethod(genericParam);
+            InternalLogger.Debug("Got to here with:");
+            InternalLogger.Debug($"genericType: {genericType}");
+            InternalLogger.Debug($"typedEvent: {typedEvent}");
+            InternalLogger.Debug($"methodInfo: {methodInfo}");
+            InternalLogger.Debug($"typedMethod: {typedMethod}");
             typedMethod.Invoke(ConfigFileMetadata, new object[] { sender, typedEvent });
         }
         else if (e is ColorChangedEventArgs colorChangedEventArgs)

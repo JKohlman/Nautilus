@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Reflection;
 using HarmonyLib;
@@ -115,7 +115,7 @@ internal class MemberInfoMetadata<T> where T : ConfigFile, new()
             InternalLogger.Error($"[OptionsMenuBuilder] Could not find the specified method: {typeof(T)}.{Name}");
             return;
         }
-
+        InternalLogger.Debug("Got to invoke method of MemberInfoMetadata");
         Traverse.Create(config).Method(Name, MethodParameterTypes).GetValue(arguments);
     }
 
